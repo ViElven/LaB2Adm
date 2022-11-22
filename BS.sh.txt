@@ -36,3 +36,5 @@ then
 fi
 
 zip -r "$outputFilename" "$inputDir"
+
+	first commit;
